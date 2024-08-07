@@ -6805,17 +6805,3 @@ h6 {
   margin-right: 10px;
   font-size: 12px;
 }
-
-/*  mobile devices  */
-@media only screen and (max-width: 560px){
-  .logo img{
-    width: 50px;
-  }
-}
-
-@media only screen and (max-width: 380px){
-  .logo img{
-    width: 35px;
-    height: auto;
-  }
-}
