@@ -328,8 +328,8 @@ h3 {
     padding-top: 60px;
   }
   .logo img{
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
   }
 }
 
@@ -339,8 +339,8 @@ h3 {
     padding-top: 100px;
   }
   .logo img{
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
   }
 }
 
@@ -430,6 +430,10 @@ h3 {
     padding-top: 60px;
     padding-bottom: 60px;
   }
+  .logo img{
+    width: 50px;
+    height: 50px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -439,8 +443,8 @@ h3 {
     padding-bottom: 80px;
   }
   .logo img{
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
   }
 }
 
@@ -465,6 +469,10 @@ h3 {
   /* line 1,           */
   .boxed-btn {
     font-size: 15px;
+  }
+  .logo img{
+    width: 50px;
+    height: 50px;
   }
 }
 
